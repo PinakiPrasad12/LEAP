@@ -30,8 +30,8 @@ LEAP operates in two distinct phases:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LEAP_Code.git
-cd LEAP_Code
+git clone https://github.com/yourusername/LEAP.git
+cd LEAP
 
 # Create virtual environment
 python -m venv leap_env
@@ -119,7 +119,7 @@ Based on our implementation with Llama 4 Maverick and Qwen3-235B-A22B:
 ## Project Structure
 
 ```
-LEAP_Code/
+LEAP/
 ├── leap/                      # Main package
 │   ├── agents/               # Pruning and Routing agents
 │   │   ├── pruning_agent.py  # Meta-RL pruning agent
@@ -207,4 +207,5 @@ training:
 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
