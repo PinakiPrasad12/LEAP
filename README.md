@@ -7,7 +7,7 @@ LEAP is a novel agentic framework that addresses the challenge of combining meta
 
 ## Workflow
 
-See the full [LEAP Workflow Diagram](leap_workflow.pdf).
+![LEAP Workflow](workflow.png)
 
 
 ## Key Features
@@ -207,3 +207,4 @@ training:
 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
